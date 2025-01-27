@@ -135,7 +135,6 @@ public class StuDeck {
 	}// search
 	
 	// 등수처리
-	void
 	
 	
 	
